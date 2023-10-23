@@ -1,0 +1,4 @@
+temp*.txt
+temp*.text
+build/
+res/
