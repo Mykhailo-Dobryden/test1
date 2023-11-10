@@ -1,2 +1,1 @@
-def main():
-    print("Hello GitHub")
+Call me Ishmael
